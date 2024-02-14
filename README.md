@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Sardor 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `FreightPOP`. A proud co-founder of `.NET Uzbekistan Community` where we make live streams and events to increase the .NET development in Uzbekistan. A teacher of `PDP Academy` where we educate future software engineers.
+> "I'm Sardorbek, a 20-year-old problem-solving enthusiast and aspiring .NET developer. Currently interning at MDevs Group, I'm passionate about crafting elegant solutions using the power of code. Whether it's untangling complex algorithms or building seamless applications, I thrive on turning challenges into opportunities. Join me on this coding journey as I explore the dynamic world of software development and contribute to shaping the digital landscape at MDevs Group!"
 <br/>
 
 <!-- Social icons section -->
@@ -21,8 +21,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sardoralgoritm"/></a>
   <a href="https://github.com/Sardoralgoritm?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sardoralgoritm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/Sardoralgoritm">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sardoralgoritm&style=for-the-badge"/></a>
 </p>
 
 ## 🔥 Streak stats
